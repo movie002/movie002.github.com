@@ -381,6 +381,8 @@ border-radius:5px;
 	padding: 10px 0 5px 0;
 	font-weight:700;
 	font-size:14px;
+	z-index:1;
+	overflow:hidden;
 	border-top: 2px solid #576d74; 
 	border-bottom: 1px solid #576d74;
 }
