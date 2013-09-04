@@ -11,13 +11,13 @@ $pagecount=15;
 //预留几页的空间
 //$pagebgen=2;
 
-//$DH_output_path= $_SERVER['DOCUMENT_ROOT'] . '/';
-//$DH_input_path= '/srv/movie002/';
-//$DH_home_url= 'http://movie002.com/';
+$DH_output_path= $_SERVER['DOCUMENT_ROOT'] . '/';
+$DH_input_path= '/srv/movie002/';
+$DH_home_url= 'http://movie002.com/';
 
-$DH_output_path= $_SERVER['DOCUMENT_ROOT'] . '/movie/';
-$DH_input_path= $_SERVER['DOCUMENT_ROOT'] . '/movie002/';
-$DH_home_url= 'http://127.0.0.1/movie/';
+//$DH_output_path= $_SERVER['DOCUMENT_ROOT'] . '/movie/';
+//$DH_input_path= $_SERVER['DOCUMENT_ROOT'] . '/movie002/';
+//$DH_home_url= 'http://127.0.0.1/movie/';
 
 $DH_src_path= $DH_input_path. 'gen/';
 $DH_html_path= $DH_src_path . 'html/';
