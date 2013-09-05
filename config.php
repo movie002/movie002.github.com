@@ -55,7 +55,7 @@ function output_page_path($basepath,$id)
 		}
 		$useid = $useid%$cut;
 	}
-	$result .=$id.'.html';
+	$result .=$useid.'.html';
 	return $result;	
 }
 
