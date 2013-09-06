@@ -4,6 +4,10 @@ $dbuser='root';
 $dbpasswd='root';
 $dbname='dhmedia';
 
+//页面存储的深度
+$DH_page_store_deep = 3;
+//每个深度的页面个数
+$DH_page_store_count = 100;
 date_default_timezone_set ('Asia/Shanghai');
 
 //每页显示的记录的个数
@@ -11,13 +15,13 @@ $pagecount=15;
 //预留几页的空间
 //$pagebgen=2;
 
-$DH_output_path= $_SERVER['DOCUMENT_ROOT'] . '/';
-$DH_input_path= '/srv/movie002/';
-$DH_home_url= 'http://movie002.com/';
+//$DH_output_path= $_SERVER['DOCUMENT_ROOT'] . '/';
+//$DH_input_path= '/srv/movie002/';
+//$DH_home_url= 'http://movie002.com/';
 
-//$DH_output_path= $_SERVER['DOCUMENT_ROOT'] . '/movie/';
-//$DH_input_path= $_SERVER['DOCUMENT_ROOT'] . '/movie002/';
-//$DH_home_url= 'http://127.0.0.1/movie/';
+$DH_output_path= $_SERVER['DOCUMENT_ROOT'] . '/movie/';
+$DH_input_path= $_SERVER['DOCUMENT_ROOT'] . '/movie002/';
+$DH_home_url= 'http://127.0.0.1/movie/';
 
 $DH_src_path= $DH_input_path. 'gen/';
 $DH_html_path= $DH_src_path . 'html/';
