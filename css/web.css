@@ -267,7 +267,7 @@ padding:0;
 }
 
 .searchinput {
-width:240px;
+width:300px;
 //background:#fff;
 border:1px solid #e0e0e0;
 margin:0;
@@ -281,7 +281,7 @@ color:#000;
 }
 
 .searchsubmit {
-width:45px;
+width:50px;
 background:#576d74;
 border:1px solid #ddd;
 font-weight:700;
