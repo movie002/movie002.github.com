@@ -277,7 +277,9 @@ padding:0
 .listall
 {
 	position:relative;	
-	margin: 5px 0 8px 0px;
+	margin: 5px 0;
+	padding: 2px 0;
+	border-bottom: 1px solid #CCC;
 	line-height: 150%;
 }
 
