@@ -313,3 +313,9 @@ padding:0
 	text-align:center;
 	background-color: #ccc;
 }
+.showhide_more
+{
+	padding: 5px 5px 0 5px;
+	border-left:1px solid #555;
+	border-left:1px solid #555;
+}
