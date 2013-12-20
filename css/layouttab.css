@@ -60,7 +60,6 @@
 .movie_meta_cover:hover{
 	border:1px solid #3377aa;
 }
-
 .need_cover:hover{
 	border:1px solid #3377aa;
 }
@@ -89,10 +88,10 @@ overflow: hidden;
 padding: 0px;
 }
 
-    .single .topic-detail {
-        padding-bottom: 0;
-        border-bottom-style: none;
-    }
+.single .topic-detail {
+	padding-bottom: 0;
+	border-bottom-style: none;
+}
     
 .topic-detail, .reader-detail { 
 /*border-bottom: 1px solid #ddd;*/ 
@@ -109,7 +108,6 @@ padding: 0px;
 	top:0px;
 	right:10px;	
 }
-
 
 .TabTitle
 {
@@ -135,6 +133,7 @@ padding: 0px;
 	margin:0 10px 0 0;
 	padding:0 5px;
 }
+
 .TabTitle .active
 {
 	background:#52686f;
@@ -210,7 +209,6 @@ padding: 0px;
 	border-bottom:1px solid #ccc;	
 }
 
-
 .col2 li
 {
 	height:154px;
@@ -239,6 +237,7 @@ padding: 0px;
 	padding:5px;
 	border: 1px solid transparent;
 }
+
 .col5 li
 {
 	width:18.5%;
