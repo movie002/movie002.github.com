@@ -50,6 +50,16 @@ a:hover {
 a:active {
 }
 
+.left
+{
+	float: left;
+}
+
+.right
+{
+	float: right;
+}
+
 .rt60v8
 {
 	position:absolute;

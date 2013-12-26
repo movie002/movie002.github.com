@@ -1,3 +1,16 @@
+.topnav li a,.topnav li a:link,.topnav li a:visited{
+padding:3px 6px;
+}
+
+.topnav li li a,.topnav li li a:link,.topnav li li a:visited {
+padding:3px 6px;
+}
+
+.topnav li li a:hover,.topnav li li a:active {
+padding:3px 6px;
+}
+
+
 .smaller{
 font-size:12px;
 font-weight:700;
@@ -16,7 +29,6 @@ padding:10px 15px;
 z-index:1;
 overflow:hidden;
 }
-
 
 #header {
 height:90px;
