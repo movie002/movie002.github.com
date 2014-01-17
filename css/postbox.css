@@ -28,7 +28,7 @@ color:#000
 position:absolute;
 left:5px;
 top:5px;
-height:20px;
+height:23px;
 width:50px;
 border:1px solid #aaa;
 border-bottom:none;
@@ -42,14 +42,14 @@ text-align:center;
 font-family:trebuchet ms, Verdana, Arial, Sans-Serif;
 font-size:16px;
 font-weight:400;
-padding:5px 0 0
+padding:0
 }
 
 .postbox .postdate_bottom {
 position:absolute;
 left:5px;
 top:30px;
-height:20px;
+height:23px;
 width:50px;
 border:1px solid #aaa;
 border-top:none;
@@ -59,11 +59,11 @@ border-radius:0 0 6px 6px;
 -moz-border-radius:0 0 6px 6px;
 text-align:center;
 font-family:trebuchet ms, Verdana, Arial, Sans-Serif;
-padding:4px 0 1px
+padding:0
 }
 
 .postbox .postdate_bottom .DateD {
-font-size:18px;
+font-size:17px;
 font-weight:700
 }
 

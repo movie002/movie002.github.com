@@ -51,7 +51,7 @@
 .topnav {
 margin:0;
 padding:2px 0 1px;
-z-index:2;
+z-index:9999;
 }
 
 .topnav ul {
@@ -122,7 +122,7 @@ background:#f7f3ed;
 
 .topnav li li a:hover,.topnav li li a:active {
 padding:6px 12px;
-background:#52686f;
+background:#52686f
 }
 
 
