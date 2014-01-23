@@ -103,3 +103,14 @@
 
 #footer-nav ul, #footer-nav li { margin: 0; padding: 0; list-style: none; }
 #footer-nav li { float: left; padding-right: 6px; line-height: 1; }
+.gotop_btn {
+position: fixed;
+left: 50%;
+margin-left: 478px;
+top: 400px;
+font-weight:700;
+font-size:11px;
+width: 22px;
+height: 71px;
+display: none;
+}

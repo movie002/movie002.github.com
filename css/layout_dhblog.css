@@ -273,3 +273,14 @@ padding-left:25px;
 {
 	font:12px Arial,Helvetica,sans-serif;
 }
+.gotop_btn {
+position: fixed;
+left: 50%;
+margin-left: 458px;
+top: 400px;
+font-weight:700;
+font-size:11px;
+width: 22px;
+height: 71px;
+display: none;
+}
