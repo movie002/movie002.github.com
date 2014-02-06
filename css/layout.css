@@ -38,10 +38,6 @@
 	border: 1px solid #bbb;
 }
 
-.listcontent ul{
-	margin-left:5px;
-}
-
 .listcontent ul li{
 	margin:5px; 
 	line-height:150%;
