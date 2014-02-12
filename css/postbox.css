@@ -160,3 +160,10 @@ background:url(../images/postmeta.png) no-repeat 0 -17px;
 margin:0 15px 0 0;
 padding:0 0 0 20px
 }
+
+.postbox .author {
+float:left;
+background:url(../images/postmeta.png) no-repeat 0 -37px;
+margin:0 15px 0 0;
+padding:0 0 0 20px
+}

@@ -284,3 +284,27 @@ width: 22px;
 height: 71px;
 display: none;
 }
+a.goto_next {
+position: fixed;
+left: 50%;
+margin-left: 476px;
+top: 300px;
+font-size:60px;
+width: 60px;
+height: 100px;
+}
+a.goto_next:hover , a.goto_pre:hover
+{
+	background:#555661;
+	text-decoration: none;
+}
+
+a.goto_pre {
+position: fixed;
+right: 50%;
+margin-right: 476px;
+top: 300px;
+font-size:60px;
+width: 60px;
+height: 100px;
+}
